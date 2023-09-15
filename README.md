@@ -72,11 +72,11 @@ endmodule
 ### TIMING DIAGRAM
 HALF ADDER:
 
-![image](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/c0395a4d-378d-4662-b6fd-873521fe0141)
+![264912010-71870c21-dcf8-421c-a0b8-6b42e7dc0e16](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/01537a6a-b0f1-44b1-9ae1-1b6ec0fb802d)
 
 FULL ADDER:
 
-![image](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/1c405e50-6373-4b4b-a9af-eb0aa3c9ded8)
+![264914031-c5cb8d2b-463f-47c8-95b5-a93a5e0ed599](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/f4fc65f2-6d87-4879-bdd5-67663e491be3)
 
 ### TRUTH TABLE 
 HALF ADDER:
@@ -84,6 +84,7 @@ HALF ADDER:
 ![image](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/371a8bbd-c0ec-41d2-b886-1bfc39c55ea4)
 
 FULL ADDER:
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/d668f73e-c15d-4016-9942-848832d3b74d)
 
 ### Result:
