@@ -61,11 +61,11 @@ endmodule
 
 ### Output:
 ### RTL
-HALF ADDER:
+### HALF ADDER:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/285c870a-a369-4f6e-9e51-ef0d1692de9b)
 
-FULL ADDER:
+### FULL ADDER:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475702/b889054b-1959-4375-901f-ec8a39bd6e81)
 
